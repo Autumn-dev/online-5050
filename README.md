@@ -9,4 +9,5 @@ This would have to get implemented so it *rolls* a bit like a roulette wheel of 
 - Second roll : 011
 - Third roll : 110
 - Fourth roll : 100
+
 The general idea is that the state is pseudo-preserved, mimicking the values scrolling.
